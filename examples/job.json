@@ -1,0 +1,30 @@
+{
+  "job": {
+    "title": "Remote AI Backend Engineer",
+    "requirements": [
+      {
+        "name": "Python",
+        "level": "required"
+      },
+      {
+        "name": "FastAPI",
+        "level": "required"
+      },
+      {
+        "name": "Go",
+        "level": "preferred"
+      },
+      {
+        "name": "MCP",
+        "level": "preferred"
+      }
+    ]
+  },
+  "candidate": {
+    "skills": [
+      "Java",
+      "Go",
+      " Python "
+    ]
+  }
+}
